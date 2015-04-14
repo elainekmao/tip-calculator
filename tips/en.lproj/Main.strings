@@ -1,0 +1,24 @@
+
+/* Class = "UISegmentedControl"; MaD-fu-yGo.segmentTitles[0] = "18%"; ObjectID = "MaD-fu-yGo"; */
+"MaD-fu-yGo.segmentTitles[0]" = "18%";
+
+/* Class = "UISegmentedControl"; MaD-fu-yGo.segmentTitles[1] = "20%"; ObjectID = "MaD-fu-yGo"; */
+"MaD-fu-yGo.segmentTitles[1]" = "20%";
+
+/* Class = "UISegmentedControl"; MaD-fu-yGo.segmentTitles[2] = "22%"; ObjectID = "MaD-fu-yGo"; */
+"MaD-fu-yGo.segmentTitles[2]" = "22%";
+
+/* Class = "UILabel"; text = "Bill Amount"; ObjectID = "YeE-Pl-bLW"; */
+"YeE-Pl-bLW.text" = "Bill Amount";
+
+/* Class = "UILabel"; text = "$10.00"; ObjectID = "clz-U1-jfN"; */
+"clz-U1-jfN.text" = "$10.00";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "pfq-bf-idx"; */
+"pfq-bf-idx.text" = "$100.00";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "up9-FI-AAt"; */
+"up9-FI-AAt.text" = "Total";
+
+/* Class = "UILabel"; text = "Tip"; ObjectID = "uxm-H8-Kny"; */
+"uxm-H8-Kny.text" = "Tip";
